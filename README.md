@@ -24,7 +24,7 @@
 * [使用方法](https://pub.dev/packages/json_serializable)
 
 # 公用Widget
- * [PublicUserAvatarWidget(头像展示)](./doc/PublicUserAvatarWidget.md)
+ * [PublicUserAvatarWidget(头像展示)](./doc/PublicUserAvatarWidget/README.md)
 
 # 编码规范
 
