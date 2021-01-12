@@ -39,16 +39,16 @@ const PublicUserAvatarWidget({
 ## 效果
 * 无头像无边框
 
-![无头像无边框](./1.png)
+![无头像无边框](doc/PublicUserAvatarWidget/1.png)
 
 * 无头像有边框
 
-![无头像有边框](./2.png)
+![无头像有边框](doc/PublicUserAvatarWidget/2.png)
 
 * 有头像无边框
 
-![有头像无边框](./3.png)
+![有头像无边框](doc/PublicUserAvatarWidget/3.png)
 
 * 有头像有边框
 
-![有头像有边框](./4.png)
+![有头像有边框](doc/PublicUserAvatarWidget/4.png)
