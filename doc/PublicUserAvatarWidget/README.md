@@ -43,7 +43,7 @@ const PublicUserAvatarWidget({
 
 * 无头像有边框
 
-![无头像有边框](doc/PublicUserAvatarWidget/2.png)
+![无头像有边框](../../doc/PublicUserAvatarWidget/2.png)
 
 * 有头像无边框
 
